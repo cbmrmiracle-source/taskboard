@@ -12,8 +12,7 @@
     {
       "binding": "DB",
       "database_name": "taskboard",
-      // Replace with the id printed by `npx wrangler d1 create taskboard`
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "21fcca95-830b-474f-bb95-37c32772e2a5",
       "migrations_dir": "migrations"
     }
   ],
